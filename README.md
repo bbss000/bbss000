@@ -1,9 +1,10 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbss000)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm bbss000</h1>
 <h3 align="center">A passionate student from Taiwan</h3>
 ** 主要專案: 
  · 中文翻譯｜參與 PPSSPP 繁中在地化  
 📫 How to reach me **austinhsu825@gmail.com**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbss000)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
