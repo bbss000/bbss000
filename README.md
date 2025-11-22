@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm bbss000</h1>
 <h3 align="center">A passionate student from Taiwan</h3>
+<h3 align="left">Studying at NCU</h3>
 <p align="left"> 主要專案: 
 <p align="left">· 中文翻譯｜參與 PPSSPP 繁中在地化  
 <p align="left">📫 How to reach me **austinhsu825@gmail.com**
